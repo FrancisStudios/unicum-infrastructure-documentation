@@ -13,6 +13,7 @@ declare -a TABLE_FIELDS=(
 )
 
 echo -e "\e[1;31m\e[47mDocument UNICUM Minecraft API Endpoint\e[0m"
+echo
 
 #INSERT NEW LINE TO ENDPOINTS
 echo "" >> $ENDPOINTS_DOCUMENT
