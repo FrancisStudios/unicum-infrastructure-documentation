@@ -3,7 +3,7 @@ Minecraft API to control our beloved Frostburn server from the UNICUM infrastruc
 
 You can use the ./endpoints.add.sh script to append new entry to the table
 
-## API CONTRACT
+## API CONTRACT 🤝
 | PHYSICAL TARGET | ENDPOINT | METHOD | REQUEST | RESPONSE | WHAT DOES IT DO? |
 |--|--|--|--|--|--|
 | 0.0.0.0:5000 | /stop | HTTP:**POST** | {"command": "stop"} | **SUCCESSFUL** no_response **INVALID** {"response": "invalid"} | Backend injects "/stop" command into minecraft server console then terminates self process |
