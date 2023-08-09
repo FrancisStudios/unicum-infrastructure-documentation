@@ -1,4 +1,4 @@
-# MINECRAFT API
+# MINECRAFT API 🌎
 Minecraft API to control our beloved Frostburn server from the UNICUM infrastructure. All of these endpoints are only accessible for internal usage on our private network. 
 
 You can use the ./endpoints.add.sh script to append new entry to the table
