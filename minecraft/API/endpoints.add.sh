@@ -10,6 +10,7 @@ declare -a TABLE_FIELDS=(
     "REQUEST" 
     "RESPONSE"
     "WHAT DOES IT DO?"
+    "DEPLOYED"
 )
 
 echo -e "\e[1;31m\e[47mDocument UNICUM Minecraft API Endpoint\e[0m"
