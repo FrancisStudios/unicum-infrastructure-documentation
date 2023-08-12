@@ -2,6 +2,8 @@
 ## What is frostburn-missile-launcher project is?
 Frostburn Missile Launcher is a Discord BOT written by Francis in NODE.JS JavaScript that leverages the powers of **discord.js 14** library to connect to discord APIs and control our private minecraft server via discord messages.
 
+[frostburn missile launcher repository on github](https://github.com/FrancisStudios/frostburn-missile-launcher)
+
 This BOT ensures that two people's "access key" is needed to launch the server. 
  ## User controls ⌨️
  Two people is needed to vote for start before server will start up
